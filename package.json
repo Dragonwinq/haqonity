@@ -1,0 +1,14 @@
+{
+  "name": "haqonity",
+  "version": "1.0.0",
+  "description": "Useful but stupid discordbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dragonwinq",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
